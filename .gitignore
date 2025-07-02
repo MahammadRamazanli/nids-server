@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+env-1/
+
+# Model faylları (əgər böyükdürsə və ya serverdə saxlanacaqsa)
+*.pkl
+
+# Jupyter checkpoint faylları
+.ipynb_checkpoints/
+
+# OS sistem faylları
+.DS_Store
+
+# VSCode settings (əgər paylaşmaq istəmirsənsə)
+.vscode/
